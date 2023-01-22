@@ -15,7 +15,7 @@ In this project, we will be performing sentiment analysis on Amazon reviews usin
 
 The dataset used in this project is a collection of Amazon product reviews, which can be found on the [Amazon review dataset](https://nijianmo.github.io/amazon/index.html) website. 
 
-OR it can be doenaloaded from the Kaggal for free 
+OR it can be downloaded from the Kaggal for free 
 
 ## Screenshots
 
@@ -29,21 +29,24 @@ OR it can be doenaloaded from the Kaggal for free
 ## Requirements
 
 The following libraries are required to run the code in this project:
-- pandas
+``` - pandas
 - numpy
 - nltk
 - sklearn
 - matplotlib
 - seaborn
+```
 
 ## Usage
 
+```
 1. Clone the repository
   git clone https://github.com/TABREZ-96/Voice-of-the-Customer.git
 
 2. Install the required libraries
 
 3. Run the jupyter notebook
+```
 
 
 
